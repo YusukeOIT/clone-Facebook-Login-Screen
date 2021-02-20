@@ -1,0 +1,16 @@
+@charset "UTF-8"
+/* 基本設定 */
+
+* {
+    margin: 0;
+}
+
+
+/* ページ全体の設定 */
+
+body {
+    display: grid;
+    grid-template-columns: 16px 287px 16px;
+    grid-template-rows;
+    [advice] 48px [fbLogo] 47.42px [telNumEmail] 42px [lineSpacing] 8px [password] 44px [loginButton] 52px [separator] 18px [signUpButton] 60px [forgotPasswordLink] 54px [localeSelector] 86px [footerNav] 22px [copyright] 17px
+}
